@@ -47,3 +47,16 @@ Windows CLI #
 How to run
 
         robot webtest.robot
+        
+How long did you spend on the technical test?
+    1 Hours
+What would you add to your solution if you had more time?
+    add browser options 
+    separate keyword and testcases
+If you didnt spend much time on the technical test then use this as an opportunity to
+explain what you would add.
+    same as answer no 2
+What do you think is the most interesting trend in test automation?
+    more easier doing regression
+How would you integrate test automation with a deployment pipeline?
+    yes, i can
