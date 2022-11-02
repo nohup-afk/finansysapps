@@ -11,7 +11,7 @@
 
 How to run Script
     
-robot api.robot
+    robot api.robot
 
 
 ###How to run web test
